@@ -1,0 +1,18 @@
+# Caches
+.cache/
+**/.cache/
+**/__pycache__/
+**/*.pyc
+
+# HuggingFace / torch caches (never commit)
+**/huggingface/
+**/torch/
+
+# Cluster job output
+code/AI_CHEM_code/logs/
+**/*.out
+**/*.err
+
+# Large generated artifacts
+*.npy
+*.npz

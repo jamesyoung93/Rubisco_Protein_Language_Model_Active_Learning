@@ -1,0 +1,7 @@
+{
+  "feature_mode": "delta",
+  "delta_method": "direct",
+  "pca_dim": 256,
+  "max_depth": 6,
+  "reg_lambda": 10.0
+}

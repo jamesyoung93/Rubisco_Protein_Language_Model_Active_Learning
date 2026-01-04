@@ -1,0 +1,16 @@
+strain,doubling_time_min_h,mu_per_h,time_for_10_doublings_h,temp_C,co2,light_umol_photons_m2_s,reference,data_type
+UTEX2973,1.9,0.364814305557866,19.0,41.0,3%,500.0,BioNumbers BNID 112485 (derived from Yu et al. 2015 text),condition-specific
+UTEX2973,2.1,0.3300700859809263,21.0,41.0,3%,500.0,"Yu et al., 2015 (Sci Rep) Table 1",condition-specific
+PCC11801,2.3,0.3013683393738893,23.0,,Air (0.04%),,"Jaiswal et al., 2018 (mBio) (doubling time under ambient CO2)",condition-specific
+Synechococcus sp.  PCC 7002,3.5,0.19804205158855578,35.0,38.0,,,"Xu et al., 2011",approx/range
+PCC7002,4.1,0.1690602879414501,41.0,38.0,3%,500.0,"Yu et al., 2015 (Sci Rep) Table 1",condition-specific
+PCC7942,4.9,0.14145860827753984,49.0,38.0,3%,300.0,"Yu et al., 2015 (Sci Rep) Table 1",condition-specific
+PCC6301,5.4,0.12836058899258246,54.0,38.0,3%,500.0,"Yu et al., 2015 (Sci Rep) Table 1",condition-specific
+Synechocystis sp.  PCC 6803,6.0,0.11552453009332421,60.0,30.0,,,"Heidorn et al., 2011",approx/range
+PCC6803,6.6,0.1050223000848402,66.0,30.0,3%,300.0,"Yu et al., 2015 (Sci Rep) Table 1",condition-specific
+Synechococcus elongatus PCC 7942,12.0,0.057762265046662105,120.0,38.0,,,"Holtman et al., 2005",approx/range
+Anabaena ATCC 29413,14.0,0.049510512897138946,140.0,30.0,,,"Mannan & Pakrasi, 1993",approx/range
+Nostoc Punctiforme ATCC 29133,16.0,0.04332169878499658,160.0,30.0,,,"Meeks et al., 2001",approx/range
+Cyanothece sp.  ATCC 51142,16.0,0.04332169878499658,160.0,30.0,,,"Alagesan et al., 2013",approx/range
+Leptolyngbya sp.  Strain BL0902,20.0,0.03465735902799726,200.0,30.0,,,"Taton et al., 2012",approx/range
+Anabaena sp. PCC 7120,24.0,0.028881132523331052,240.0,30.0,,,"Ehira et al., 2011",approx/range

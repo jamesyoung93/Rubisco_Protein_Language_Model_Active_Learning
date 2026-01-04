@@ -1,0 +1,6 @@
+strain,n_conditions,min_doubling_time_h,max_doubling_time_h,median_doubling_time_h
+PCC6301,1,5.4,5.4,5.4
+PCC6803,1,6.6,6.6,6.6
+PCC7002,2,4.1,9.3,6.7
+PCC7942,4,4.9,8.7,7.3
+UTEX2973,6,2.1,6.3,4.6

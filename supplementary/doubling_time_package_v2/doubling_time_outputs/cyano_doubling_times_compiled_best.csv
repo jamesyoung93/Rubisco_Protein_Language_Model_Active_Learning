@@ -1,0 +1,15 @@
+strain,temp_C,co2,light_umol_photons_m2_s,doubling_time_min_h,doubling_time_max_h,doubling_time_sd_h,qualifier,reference,source,data_type,mu_per_h
+PCC6301,38,3%,500.0,5.4,5.4,0.3,,"Yu et al., 2015 (Sci Rep) Table 1",Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1,condition-specific,0.12836058899258246
+PCC6803,30,3%,300.0,6.6,6.6,,,"Yu et al., 2015 (Sci Rep) Table 1",Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1,condition-specific,0.1050223000848402
+PCC7002,38,3%,500.0,4.1,4.1,0.4,,"Yu et al., 2015 (Sci Rep) Table 1",Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1,condition-specific,0.1690602879414501
+PCC7942,38,3%,300.0,4.9,4.9,0.7,,"Yu et al., 2015 (Sci Rep) Table 1",Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1,condition-specific,0.14145860827753984
+UTEX2973,41,3%,500.0,2.1,2.1,0.2,,"Yu et al., 2015 (Sci Rep) Table 1",Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1,condition-specific,0.3300700859809263
+Synechocystis sp.  PCC 6803,30,,,6.0,12.0,,range,"Heidorn et al., 2011","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.11552453009332421
+Synechococcus elongatus PCC 7942,38,,,12.0,24.0,,range,"Holtman et al., 2005","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.057762265046662105
+Synechococcus sp.  PCC 7002,38,,,3.5,3.5,,,"Xu et al., 2011","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.19804205158855578
+Anabaena sp. PCC 7120,30,,,24.0,,,>,"Ehira et al., 2011","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.028881132523331052
+Anabaena ATCC 29413,30,,,14.0,16.0,,range,"Mannan & Pakrasi, 1993","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.049510512897138946
+Nostoc Punctiforme ATCC 29133,30,,,16.0,20.0,,range,"Meeks et al., 2001","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.04332169878499658
+Leptolyngbya sp.  Strain BL0902,30,,,20.0,20.0,,~,"Taton et al., 2012","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.03465735902799726
+Cyanothece sp.  ATCC 51142,30,,,16.0,20.0,,range,"Alagesan et al., 2013","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)",approx/range,0.04332169878499658
+UTEX2973,41,3%,500.0,1.9,1.9,,,BioNumbers BNID 112485 (derived from Yu et al. 2015 text),BioNumbers BNID 112485 (shortest doubling time),condition-specific,0.364814305557866

@@ -1,0 +1,215 @@
+species,label,taxon_id,taxon_name,uniprot_accession,uniprot_protein_name,uniprot_gene_names,uniprot_length,seq_len
+Aegilops biuncialis,Aegilops_biuncialis,130455,Aegilops biuncialis,A0A218L6D5,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Aegilops comosa,Aegilops_comosa,4485,Aegilops comosa,Q58U45,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Aegilops cylindrica,Aegilops_cylindrica,130456,Aegilops cylindrica,V9PDG4,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Aegilops juvenalis,Aegilops_juvenalis,130457,Aegilops juvenalis,A0A0A1IXX4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Aegilops speltoides,Aegilops_speltoides,1525191,Aegilops speltoides var. speltoides,A0A075VW79,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Aegilops tauschii,Aegilops_tauschii,37682,Aegilops tauschii,P25414,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,421,421
+Aegilops triuncialis,Aegilops_triuncialis,39391,Aegilops triuncialis,A0A218LDG0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Aegilops uniaristata,Aegilops_uniaristata,4492,Aegilops uniaristata,A0A218LEN0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Aegilops vavilovii,Aegilops_vavilovii,130462,Aegilops vavilovii,A0A0A1IXS6,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Agave victoriae−reginae,Agave_victoriae_reginae,81727,Agave victoriae-reginae,X5I0H3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Agriophyllum squarrosum,Agriophyllum_squarrosum,240019,Agriophyllum squarrosum,Q6JXX0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,447,447
+Agrostis scabra,Agrostis_scabra,345920,Agrostis scabra,S4TAE5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,456,456
+Agrostis stolonifera,Agrostis_stolonifera,63632,Agrostis stolonifera,A1EA16,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Allochromatium vinosum,Allochromatium_vinosum,572477,Allochromatium vinosum (strain ATCC 17899 / DSM 180 / NBRC 103801 / NCIMB 10441 / D),P22859,Ribulose bisphosphate carboxylase large chain 2 (RuBisCO large subunit 2) (EC 4.1.1.39),cbbL2 rbcL Alvin_2750,471,471
+Amaranthus hybridus,Amaranthus_hybridus,3565,Amaranthus hybridus,A0A7M1YAL7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Amphicarpaea bracteata,Amphicarpaea_bracteata,45679,Amphicarpaea bracteata,A0A1C3HPM0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Aphanizomenon flos aquae,Aphanizomenon_flos_aquae,1710894,Aphanizomenon flos-aquae LD13,A0A1B7VW33,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL AN481_11755,476,476
+Arabidopsis thaliana,Arabidopsis_thaliana,3702,Arabidopsis thaliana,O03042,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL AtCg00490,479,479
+Arabidopsis thaliana cv. Columbia,Arabidopsis_thaliana_cv_Columbia,3702,Arabidopsis thaliana,O03042,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL AtCg00490,479,479
+Archaeoglobus fulgidus,Archaeoglobus_fulgidus,224325,Archaeoglobus fulgidus (strain ATCC 49558 / DSM 4304 / JCM 9628 / NBRC 100126 / VC-16),O28635,Ribulose bisphosphate carboxylase (RuBisCO) (EC 4.1.1.39),rbcL AF_1638,441,441
+Arctagrostis latifolia,Arctagrostis_latifolia,227220,Arctagrostis latifolia,A0A1C3HPM4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Artemisia myriantha,Artemisia_myriantha,1853055,Artemisia myriantha,A0A1C3HPM2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Artemisia vulgaris L.,Artemisia_vulgaris_L,4220,Artemisia vulgaris,A0A1C3HPM3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Atrichum undulatum,Atrichum_undulatum,38592,Atrichum undulatum,X5IB77,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Atriplex glabriuscula,Atriplex_glabriuscula,880653,Atriplex glabriuscula,K4ETN9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,184,184
+Avena sativa,Avena_sativa,4497,Avena nuda,A0A510B6V9,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL ANU_cp048,477,477
+Beta vulgaris,Beta_vulgaris,161934,Beta vulgaris,Q4PLI7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Bromus anomalus,Bromus_anomalus,55760,Bromus anomalus,A0A1C3HPM1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Calamagrostis arundinacea,Calamagrostis_arundinacea,389630,Calamagrostis arundinacea,A0A1C3HPL9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Calamagrostis canescens,Calamagrostis_canescens,1155255,Calamagrostis canescens,A0A1C3HPN2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Calamagrostis foliosa,Calamagrostis_foliosa,1853056,Calamagrostis foliosa,A0A1C3HPN4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Calamagrostis inexpansa,Calamagrostis_inexpansa,497293,Calamagrostis stricta subsp. inexpansa,A0A1C3HPM7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Calamagrostis nutkaensis,Calamagrostis_nutkaensis,1853057,Calamagrostis nutkaensis,A0A1C3HPN0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Capsicum annuum,Capsicum_annuum,4072,Capsicum annuum,P27063,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,16,16
+Carpobrotus edulis,Carpobrotus_edulis,379215,Carpobrotus edulis,A0A0F7EWC1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,446,446
+Cenchrus ciliaris,Cenchrus_ciliaris,35872,Cenchrus ciliaris,A0A0U5L7M1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,451,451
+Ceratophyllum demersum,Ceratophyllum_demersum,4428,Ceratophyllum demersum,Q05798,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Chaetoceros socialis,Chaetoceros_socialis,163503,Chaetoceros socialis,A0A8F5W6T3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcl rbcL,490,490
+Chenopodium murale,Chenopodium_murale,46091,Chenopodiastrum murale,A0A1C3HPN5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Chenopodium rubrum,Chenopodium_rubrum,3560,Oxybasis rubra,A0A1C3HPN3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Chlamydomonas reinhardtii,Chlamydomonas_reinhardtii,3055,Chlamydomonas reinhardtii,P00877,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Chromatium vinosum,Chromatium_vinosum,572477,Allochromatium vinosum (strain ATCC 17899 / DSM 180 / NBRC 103801 / NCIMB 10441 / D),P22859,Ribulose bisphosphate carboxylase large chain 2 (RuBisCO large subunit 2) (EC 4.1.1.39),cbbL2 rbcL Alvin_2750,471,471
+Citrullus ecirrhosus,Citrullus_ecirrhosus,260672,Citrullus ecirrhosus,A0A0A0RR99,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Citrullus lanatus var. lanatus,Citrullus_lanatus_var_lanatus,3654,Citrullus lanatus,A0A1P8LDI3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL,482,482
+Coccochloris peniocystis,Coccochloris_peniocystis,292564,Cyanobium gracile (strain ATCC 27147 / PCC 6307),K9P2B9,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),cbbL rbcL Cyagr_0014,470,470
+Coffee arabica,Coffee_arabica,13443,Coffea arabica,P48694,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,481,481
+Crithmum maritimum,Crithmum_maritimum,40916,Crithmum maritimum,A0A0D2X737,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Cucurbita maxima,Cucurbita_maxima,3661,Cucurbita maxima,A0A2H4T203,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,482,482
+Cyanidium caldarium,Cyanidium_caldarium,2771,Cyanidium caldarium,P37393,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,488,488
+Cyanobium PCC7001,Cyanobium_PCC7001,180281,Cyanobium sp. PCC 7001,A5CKD0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL CPCC7001_1083,470,470
+Cycas panzhihuaensis,Cycas_panzhihuaensis,123604,Cycas panzhihuaensis,A0A1D8BEY3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Cylindrotheca N1,Cylindrotheca_N1,2855,Cylindrotheca sp. (strain N1),P24673,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,490,490
+Deschampsia danthonioides,Deschampsia_danthonioides,335194,Deschampsia danthonioides,A0A1C3HPP5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Desmodium cinereum,Desmodium_cinereum,1853059,Desmodium cinereum,A0A1C3HPP3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Desmodium intortum,Desmodium_intortum,556506,Desmodium intortum,A0A1C3HPN7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Desmodium psilocarpum,Desmodium_psilocarpum,247893,Desmodium psilocarpum,A0A1C3HPP4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Drosera capensis,Drosera_capensis,4366,Drosera capensis,P28405,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,466,466
+Drosera venusta,Drosera_venusta,1478274,Drosera venusta,X5ICR6,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Echeveria elegans,Echeveria_elegans,1478275,Echeveria elegans,X5HXR0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Echinochloa crus-galli,Echinochloa_crus_galli,338575,Echinochloa crus-galli var. crus-galli,M1PSB5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,430,430
+Elymus farctus,Elymus_farctus,435325,Elymus farctus,A0A1C3HPN9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Eragrostis tef,Eragrostis_tef,110835,Eragrostis tef,A0A6C0SV93,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL,486,486
+Erythrina flabelliformis,Erythrina_flabelliformis,1853060,Erythrina flabelliformis,A0A1C3HPP1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Espeletia schultzii,Espeletia_schultzii,185154,Espeletia schultzii,A0A077ET83,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Euglena gracilis,Euglena_gracilis,3039,Euglena gracilis,P00878,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Euphorbia helioscopia,Euphorbia_helioscopia,154990,Euphorbia helioscopia,A0A6M4AEZ2,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Euphorbia microsphaera,Euphorbia_microsphaera,1333930,Euphorbia microsphaera,A0A1C3HPP0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Festuca gigantea,Festuca_gigantea,29677,Festuca gigantea,A0A1C3HPN8,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Flaveria angustifolia,Flaveria_angustifolia,163088,Flaveria angustifolia,E9N7A6,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria angustifolia ,Flaveria_angustifolia,163088,Flaveria angustifolia,E9N7A6,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria anomala ,Flaveria_anomala,35877,Flaveria anomala,E9N7A5,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria australasica,Flaveria_australasica,4227,Flaveria trinervia,E9N7A7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria bidentis,Flaveria_bidentis,4224,Flaveria bidentis,P19161,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria bidentis ,Flaveria_bidentis,4224,Flaveria bidentis,P19161,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria cronquistii,Flaveria_cronquistii,29717,Flaveria cronquistii,E9N7A9,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria cronquistii ,Flaveria_cronquistii,29717,Flaveria cronquistii,E9N7A9,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria floridana,Flaveria_floridana,35878,Flaveria floridana,E9N7B0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria floridana ,Flaveria_floridana,35878,Flaveria floridana,E9N7B0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria kochiana,Flaveria_kochiana,343901,Flaveria kochiana,E9N7B1,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria linearis ,Flaveria_linearis,4225,Flaveria linearis,E9N7B2,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria palmeri ,Flaveria_palmeri,35879,Flaveria palmeri,E9N7B3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria pringlei,Flaveria_pringlei,4226,Flaveria pringlei,P19162,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria ramosissima ,Flaveria_ramosissima,41578,Flaveria ramosissima,E9N7B4,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria sonorensis ,Flaveria_sonorensis,343904,Flaveria sonorensis,E9N7B5,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria trinervia,Flaveria_trinervia,4227,Flaveria trinervia,E9N7A7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria trinervia ,Flaveria_trinervia,4227,Flaveria trinervia,E9N7A7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flaveria vaginata ,Flaveria_vaginata,243343,Flaveria vaginata,E9N7B7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Flueggea suffruticosa,Flueggea_suffruticosa,283120,Flueggea suffruticosa,K4KDP2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,475,475
+Foeniculum vulgare,Foeniculum_vulgare,734088,Anethum foeniculum subsp. foeniculum,A0A976U7M9,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Fragilariopsis cylindrus,Fragilariopsis_cylindrus,186039,Fragilariopsis cylindrus,A0A5Q0TZT8,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,490,490
+Glycine canescens,Glycine_canescens,48924,Glycine canescens,R9ZSR8,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Glycine max,Glycine_max,3847,Glycine max,P27066,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Glycine max cv. Wayne,Glycine_max_cv_Wayne,3847,Glycine max,P27066,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Griffithsia monilis,Griffithsia_monilis,42003,Griffithsia monilis,A7UM67,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL,488,488
+Halothiobacillus neapolitanus,Halothiobacillus_neapolitanus,555778,Halothiobacillus neapolitanus (strain ATCC 23641 / DSM 15147 / CIP 104769 / NCIMB 8539 / c2),O85040,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39) (Form 1 RuBisCO),cbbL Hneap_0922,473,473
+Helianthus annuus L.,Helianthus_annuus_L,4232,Helianthus annuus,P45738,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,485,485
+Hordeum brachyantherum,Hordeum_brachyantherum,52712,Hordeum brachyantherum,A0A1C3HPQ0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Hordeum murinum,Hordeum_murinum,97361,Hordeum murinum,A0A1C3HPQ4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Hordeum vulgare L.,Hordeum_vulgare_L,4513,Hordeum vulgare,P05698,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,479,479
+Ipomoea batatas,Ipomoea_batatas,4120,Ipomoea batatas,Q58J81,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,480,480
+Iris douglasiana,Iris_douglasiana,34208,Iris douglasiana,X5ICR4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Lablab purpureus,Lablab_purpureus,35936,Lablab purpureus,A0A7T0CP11,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,484,484
+Lepidium campestre,Lepidium_campestre,65351,Lepidium campestre,A0A1C3HPQ1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Limonium antonii‐llorensii,Limonium_antonii_llorensii,1504223,Limonium antonii-llorensii,A0A068ETJ6,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium artruchium,Limonium_artruchium,1504224,Limonium artruchium,A0A068EM06,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium balearicum,Limonium_balearicum,1504225,Limonium balearicum,A0A068ETL0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium barceloi,Limonium_barceloi,1504226,Limonium barceloi,A0A068EPL3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium biflorum,Limonium_biflorum,1504228,Limonium biflorum,A0A068ELZ9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium companyonis,Limonium_companyonis,1504233,Limonium companyonis,A0A068EPJ2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium echioides,Limonium_echioides,70372,Limonium echioides,A0A068ELS9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium ejulabilis,Limonium_ejulabilis,1504236,Limonium ejulabilis,A0A068ELN4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium gibertii,Limonium_gibertii,288812,Limonium gibertii,A0A068EM20,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium grosii,Limonium_grosii,1504239,Limonium grosii,A0A068ELY7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium gymnesicum,Limonium_gymnesicum,70361,Limonium gymnesicum,A0A068EPN4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium latebracteatum,Limonium_latebracteatum,1478277,Limonium latebracteatum,A0A3S5HUK6,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,422,422
+Limonium leonardi‐llorensii,Limonium_leonardi_llorensii,1504242,Limonium leonardi-llorensii,A0A068ELM6,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium magallufianum,Limonium_magallufianum,1504243,Limonium magallufianum,A0A068ENL3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium retusum,Limonium_retusum,1504252,Limonium retusum,A0A068ENJ3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Limonium stenophyllum,Limonium_stenophyllum,1478276,Limonium stenophyllum,X5IB74,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Limonium virgatum,Limonium_virgatum,70367,Limonium virgatum,A0A068EM41,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,454,454
+Lolium multiflorum,Lolium_multiflorum,4521,Lolium multiflorum,K4PAD3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL LomuCp049 QYE76_017750,477,477
+Lolium perenne,Lolium_perenne,281081,Lolium perenne subsp. perenne,Q5K3B5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,432,432
+Lolium rigidum,Lolium_rigidum,89674,Lolium rigidum,A0A1C3HPR5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Lysimachia minoricensis,Lysimachia_minoricensis,110755,Lysimachia minoricensis,Q9GEP1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,468,468
+Macrotyloma uniflorum,Macrotyloma_uniflorum,271171,Macrotyloma uniflorum,C0J383,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,439,439
+Manihot esculenta,Manihot_esculenta,3983,Manihot esculenta,B1NWF8,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Marchantia polymorpha,Marchantia_polymorpha,1480153,Marchantia polymorpha subsp. polymorpha,A0A1J0PJS3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,453,453
+Medicago sativa,Medicago_sativa,36902,Medicago sativa subsp. varia,A0A075TMN8,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,219,219
+Megathyrsus maximus,Megathyrsus_maximus,59788,Megathyrsus maximus,A0A0U5EG75,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,451,451
+Mentha aquatica,Mentha_aquatica,190902,Mentha aquatica,A0A0B5JFL0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,445,445
+Mercurialis annua,Mercurialis_annua,3986,Mercurialis annua,P31195,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,54,54
+Metasequoia glyptostroboides,Metasequoia_glyptostroboides,3371,Metasequoia glyptostroboides,X5I0X8,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Musa velutina,Musa_velutina,228181,Musa velutina,A0A1C3HPQ7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Nicotiana tabacum,Nicotiana_tabacum,4097,Nicotiana tabacum,P00876,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL rbcA,477,477
+Nicotiana tabacum L. cv. W38,Nicotiana_tabacum_L_cv_W38,4097,Nicotiana tabacum,P00876,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL rbcA,477,477
+Nicotiana tabacum cv. W38,Nicotiana_tabacum_cv_W38,4097,Nicotiana tabacum,P00876,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL rbcA,477,477
+Nymphaea alba,Nymphaea_alba,1891505,Nymphaea alba subsp. alba,E2CVI9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,466,466
+Olisthodiscus luteus,Olisthodiscus_luteus,83000,Olisthodiscus luteus,P14959,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,488,488
+Oryza barthii/glaberrima,Oryza_barthii_glaberrima,1853067,Oryza barthii x Oryza glaberrima,A0A1C3HPR4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Oryza eichingeri,Oryza_eichingeri,29689,Oryza eichingeri,A0A1W5HNA1,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Oryza glumaepatula,Oryza_glumaepatula,40148,Oryza glumipatula,A0A0K0LMG4,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Oryza longistaminata,Oryza_longistaminata,4528,Oryza longistaminata,A0A1C3HPS5,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Oryza meridionalis,Oryza_meridionalis,40149,Oryza meridionalis,A0A1C3HPS1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Oryza punctata,Oryza_punctata,4537,Oryza punctata,A0A7H0TLJ6,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Oryza punctata Kotschy,Oryza_punctata_Kotschy,4537,Oryza punctata,A0A7H0TLJ6,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+P. dilatatum,P_dilatatum,226479,Orthomnion dilatatum,A0A2Z6FKH0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Pallenis maritima,Pallenis_maritima,56521,Pallenis maritima,X5I0X2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Panicum amarum,Panicum_amarum,206009,Panicum amarum,A0A1C3HPS4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Panicum antidotale,Panicum_antidotale,3031383,Janochloa antidotale,A0A2C7YTM7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Panicum bisulcatum,Panicum_bisulcatum,65986,Panicum bisulcatum,M1Q7Q1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,430,430
+Panicum coloratum,Panicum_coloratum,206014,Panicum coloratum,B0B788,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,447,447
+Panicum deustum,Panicum_deustum,3031382,Batochloa deusta,A0A2C7YNT9,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,480,480
+Panicum dichotomiflorum,Panicum_dichotomiflorum,29692,Panicum dichotomiflorum,A0A0F7G6K1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,441,441
+Panicum milioides,Panicum_milioides,206025,Panicum milioides,A0A2C7YNS7,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Panicum monticola,Panicum_monticola,1892572,Panicum monticola,A0A2C7YNV2,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,480,480
+Panicum phragmitoides,Panicum_phragmitoides,862942,Panicum phragmitoides,A0A1C3HPS3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Panicum virgatum,Panicum_virgatum,38727,Panicum virgatum,C0SJQ1,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,449,449
+Pavlova lutheri,Pavlova_lutheri,2081491,Diacronema lutheri,M1K554,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,488,488
+Phaeodactylum tricornutum,Phaeodactylum_tricornutum,2850,Phaeodactylum tricornutum,A0A1W6FBN7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,487,487
+Phaseolus carteri,Phaseolus_carteri,378479,Phaseolus carteri,A0A1C3HPS2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Phaseolus coccineus,Phaseolus_coccineus,3886,Phaseolus coccineus,A0A1C3HPT4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Phaseolus lunatus,Phaseolus_lunatus,3884,Phaseolus lunatus,A0A1C3HPT3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Phaseolus vulgaris,Phaseolus_vulgaris,3885,Phaseolus vulgaris,A4GG89,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Phaseolus vulgaris ,Phaseolus_vulgaris,3885,Phaseolus vulgaris,A4GG89,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Pistacia lentiscus,Pistacia_lentiscus,371726,Pistacia lentiscus,A0A0M3LQV0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,186,186
+Pisum sativum,Pisum_sativum,208194,Pisum sativum subsp. sativum,A0A385JEF4,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Plantago lanceolata L.,Plantago_lanceolata_L,39414,Plantago lanceolata,Q37260,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,441,441
+Platycerium superbum,Platycerium_superbum,347932,Platycerium superbum,X5I0Y3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Pleurochrysis carterae,Pleurochrysis_carterae,13221,Chrysotila carterae,Q08051,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,488,488
+Poa palustris,Poa_palustris,269377,Poa palustris,A0A1B3TNN6,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL PopaCp048,477,477
+Polypodium aureum,Polypodium_aureum,49545,Polypodium aureum,A0A1Y0DHC7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,184,184
+Porphyra yezoensis,Porphyra_yezoensis,388772,Pyropia yezoensis f. yezoensis,A3QT52,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,447,447
+Porphyridium purpureum,Porphyridium_purpureum,35688,Porphyridium purpureum,A0A343KNV1,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL,488,488
+Prochlorococcus marinus MIT9313,Prochlorococcus_marinus_MIT9313,74547,Prochlorococcus marinus (strain MIT 9313),Q7V6F8,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),cbbL rbcL PMT_1205,470,470
+Pteridium aquilinum,Pteridium_aquilinum,104588,Pteridium aquilinum subsp. aquilinum,E2IH19,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL PTAQ_Cp048,475,475
+Puccinellia distans,Puccinellia_distans,13649,Puccinellia distans,Q37256,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Puccinellia lemmonii,Puccinellia_lemmonii,717843,Puccinellia lemmonii,A0A1C3HPS7,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Puccinellia maritima,Puccinellia_maritima,492098,Puccinellia maritima,A0A1C3HPT0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Puccinellia nuttalliana,Puccinellia_nuttalliana,1120099,Puccinellia nuttalliana,A0A3G1AZ51,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL cbbL PunuCp048,477,477
+Pueraria montana,Pueraria_montana,132459,Pueraria montana,A0A1C9HFT9,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,425,425
+Rhodopseudomonas palustris,Rhodopseudomonas_palustris,316055,Rhodopseudomonas palustris (strain BisA53),Q07N61,Ribulose bisphosphate carboxylase (RuBisCO) (EC 4.1.1.39),cbbM RPE_2686,460,460
+Riftia pachyptila endosymbiont,Riftia_pachyptila_endosymbiont,54396,endosymbiont of Riftia pachyptila,O68486,Ribulose bisphosphate carboxylase (EC 4.1.1.39),cbbM,461,461
+Saccharum officinarum,Saccharum_officinarum,4547,Saccharum officinarum,Q6ENV5,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Sarracenia flava,Sarracenia_flava,4359,Sarracenia flava,P28451,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,465,465
+Scenedesmus obliquus,Scenedesmus_obliquus,3088,Tetradesmus obliquus,Q1KVV0,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Setaria italica,Setaria_italica,4555,Setaria italica,P56647,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Setaria viridis,Setaria_viridis,1398188,Setaria viridis var. viridis,U5NQQ4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,430,430
+Sideritis cretica subsp. spicata,Sideritis_cretica_subsp_spicata,403016,Sideritis cretica subsp. spicata,X5IB66,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Skeletonema costatum,Skeletonema_costatum,2843,Skeletonema costatum,A0A8K1GYS3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,490,490
+Solanum lycopersicum,Solanum_lycopersicum,4081,Solanum lycopersicum,P27065,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Solanum tuberosum,Solanum_tuberosum,4113,Solanum tuberosum,P25079,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Sorghum bicolor,Sorghum_bicolor,4558,Sorghum bicolor,A1E9T2,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Sphenostylis stenocarpa,Sphenostylis_stenocarpa,92480,Sphenostylis stenocarpa,A0A1C3HPT2,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Spinacia oleracea,Spinacia_oleracea,3562,Spinacia oleracea,P00875,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,475,475
+Steinchisma laxa,Steinchisma_laxa,158129,Steinchisma laxum,B0B746,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,447,447
+Synechococcus 6301,Synechococcus_6301,269084,Synechococcus sp. (strain ATCC 27144 / PCC 6301 / SAUG 1402/1),P00880,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),cbbL rbcA rbcL syc0130_c,472,472
+Synechococcus 7002,Synechococcus_7002,32049,Picosynechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6),Q44176,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),cbbL rbcL SYNPCC7002_A1798,470,470
+Synechococcus elongatus PCC 7942,Synechococcus_elongatus_PCC_7942,1140,Synechococcus elongatus (strain ATCC 33912 / PCC 7942 / FACHB-805),Q31NB3,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),cbbL rbcL Synpcc7942_1426,472,472
+Tephrosia candida,Tephrosia_candida,587868,Tephrosia candida,A0A1C3HPU0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Tephrosia purpurea,Tephrosia_purpurea,228354,Tephrosia purpurea,A0A1C3HPU3,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Tephrosia rhodesica,Tephrosia_rhodesica,556521,Tephrosia rhodesica,A0A1C3HPT8,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,463,463
+Teucrium heterophyllum,Teucrium_heterophyllum,1209860,Teucrium heterophyllum,X5I0G8,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,442,442
+Thalassiosira antarctica,Thalassiosira_antarctica,160265,Thalassiosira antarctica,A8DP67,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,490,490
+Thalassiosira weissflogii,Thalassiosira_weissflogii,1577725,Thalassiosira weissflogii,A8DP72,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,481,481
+Tisochrysis lutea,Tisochrysis_lutea,1321669,Tisochrysis lutea,X5CVA0,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,488,488
+Trachycarpus fortunei,Trachycarpus_fortunei,14027,Trachycarpus fortunei,Q9BA63,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,480,480
+Triticum aestivum,Triticum_aestivum,4565,Triticum aestivum,P11383,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,477,477
+Triticum baeoticum,Triticum_baeoticum,52163,Triticum monococcum subsp. aegilopoides,S4Z920,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Ulva pertusa,Ulva_pertusa,3120,Ulva pertusa,F8RC38,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,423,423
+Urochloa mosambicensis,Urochloa_mosambicensis,240432,Urochloa mosambicensis,A0A2H4UG31,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,451,451
+Urochloa panicoides,Urochloa_panicoides,37563,Urochloa panicoides,S6CNQ4,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,447,447
+Urtica membranacea,Urtica_membranacea,1053403,Urtica membranacea,A0A346TG88,Ribulose bisphosphate carboxylase large chain (EC 4.1.1.39),rbcL,230,230
+Zea mays,Zea_mays,4577,Zea mays,P00874,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476
+Zea mays ,Zea_mays,4577,Zea mays,P00874,Ribulose bisphosphate carboxylase large chain (RuBisCO large subunit) (EC 4.1.1.39),rbcL,476,476

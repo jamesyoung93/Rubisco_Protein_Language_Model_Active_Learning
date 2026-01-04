@@ -1,0 +1,31 @@
+{
+  "best_config": {
+    "feature_mode": "delta",
+    "delta_method": "direct",
+    "pca_dim": 256,
+    "max_depth": 6,
+    "reg_lambda": 10.0
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "TRAIN_MAX_NMUT": 4,
+  "VAL_NMUT": 5,
+  "TEST_MIN_NMUT": 6,
+  "ADD_NMUT_FEATURES": true,
+  "sample_weight_clip": [
+    0.25,
+    4.0
+  ],
+  "MAX_N_MUT_FOR_CANDIDATES": 8,
+  "N2_MARGIN_BELOW_WT": 0.1,
+  "O2_MARGIN_BELOW_WT": null,
+  "n2_threshold_used": 1.292875685104589,
+  "o2_threshold_used": null,
+  "wt_n2_obs": 1.3928756851045891,
+  "wt_o2_obs": 1.261033758303968
+}

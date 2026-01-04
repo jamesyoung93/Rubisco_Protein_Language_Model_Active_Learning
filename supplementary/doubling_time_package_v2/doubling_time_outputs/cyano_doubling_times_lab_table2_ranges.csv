@@ -1,0 +1,9 @@
+strain,temp_C,co2,light_umol_photons_m2_s,doubling_time_min_h,doubling_time_max_h,doubling_time_mid_h,qualifier,metabolism,notes,reference,source
+Synechocystis sp.  PCC 6803,30,,,6.0,12.0,9.0,range,"Mixotrophic, autotrophic",Extensive systems biology datasets are available,"Heidorn et al., 2011","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Synechococcus elongatus PCC 7942,38,,,12.0,24.0,18.0,range,Autotrophic,A model strain for the study of circadian clocks,"Holtman et al., 2005","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Synechococcus sp.  PCC 7002,38,,,3.5,3.5,3.5,,"Mixotrophic, autotrophic",Among the fastest-growing strains known,"Xu et al., 2011","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Anabaena sp. PCC 7120,30,,,24.0,,,>,"Mixotrophic, autotrophic","Filamentous, nitrogen-fixing","Ehira et al., 2011","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Anabaena ATCC 29413,30,,,14.0,16.0,15.0,range,"Mixotrophic, autotrophic",Produces akinetes under nutrient stress,"Mannan & Pakrasi, 1993","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Nostoc Punctiforme ATCC 29133,30,,,16.0,20.0,18.0,range,"Mixotrophic, autotrophic",Has the largest cyanobacterial genome (~10Mb),"Meeks et al., 2001","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Leptolyngbya sp.  Strain BL0902,30,,,20.0,20.0,20.0,~,Autotrophic,"Filamentous, Grows well in outdoor photo-bioreactors in a broad range of conditions","Taton et al., 2012","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"
+Cyanothece sp.  ATCC 51142,30,,,16.0,20.0,18.0,range,"Autotrophic, Mixotrophic",Separates nitrogen-fixation during light/dark cycles,"Alagesan et al., 2013","Cyano doubling time-122225.docx Table 2 (adapted from Berla et al., 2013)"

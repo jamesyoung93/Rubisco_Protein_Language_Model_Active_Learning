@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+pdfplumber
+python-docx
+Jinja2>=3.0.0

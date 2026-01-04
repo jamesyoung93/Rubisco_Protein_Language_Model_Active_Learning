@@ -1,0 +1,101 @@
+Acidithiobacillus ferrooxidans
+Amaranthus edulis
+Anabena variabilis
+Anacystis nidulans
+Aphanocapsa alpicola
+B. distachyon
+Bellerochea cf. horologicalis (CS-874/01)
+Beta maritima ssp. marcosii
+Beta maritima ssp. maritima
+Beta vulgarisssp.vulgaris
+Brassica oleracea
+C. dactylon
+C. fusiformis
+Chaetoceros calcitrans (CCMP 1315)
+Chaetoceros calcitrans (CS-178)
+Chaetoceros muelleri (CCMP 1316)
+Chenopodium alba
+Chenopodium petiolare
+Chrysanthellum indicum var. afroamericanum
+Cyanobium PCC7001 broken carboxysomes
+Cyanobium PCC7001 whole carboxysomes
+Cylindrotheca fusiformis (CS-13)
+Dactylis glomerata cv. Porto
+Diplotaxis ibicensis
+Eucalyptus moorei
+Eucalyptus neglecta
+Festuca pratensis
+Flaveria brownii 
+Flaveria chloraefolia 
+Fragilariopsis cylindrus (CCMP 1102)
+Galdieria partita Tokara
+Galdieria sulfuraria
+H. vulgare cv. Lenins
+Halothiobacillus neapolitanus broken carboxysomes
+Halothiobacillus neapolitanus whole carboxysomes
+Helianthus maximus
+Hordeum vulgare cv. Stirling
+Hordeum vulgare ssp. vulgare cv. Morex
+Hypericum balearicum
+Kundmannia sicula
+Lactua sativa
+Lycopersicon ensculentum
+Methanococcoides burtonii
+Methanococcoides burtonii K332E
+Methanococcoides burtonii L2
+Nicotiana glauca Grah.
+Nicotiana tabacum cv. PH
+Oryza glaberrima (WAB 1939)
+Oryza nivara
+Oryza sativa
+Oryza sativa ssp.Indicacv.Icasulum
+Oryza sativa ssp.Japonicacv.Nipponbare
+Panicum miliodes
+Panicum milliaceum
+Petroselinum cripsum
+Phaeodactylum tricornutum (CS-29)
+Phaeodactylum tricornutum (UTEX 642)
+Plectonema boryanum
+Porphyridium cruenteum
+Potulaca oleraca
+Rhamnus alaternus
+Rhamnus ludovici-salvatoris
+Rhodobacter sphaeroides I
+Rhodobacter sphaeroides II
+Rhodospirillum rubrum
+S. cereale cv. Agronom
+Skeletonema marinoi (CCMP 1332)
+Spinacia oleracea hybrid 102
+Synechococcus 6301 F92L
+Synechococcus 6301 G91V
+Synechococcus 6301 I87V
+Synechococcus 6301 R88K
+Synechococcus 7515
+T. aestivum (C)
+T. aestivum SATYN1
+T. aestivum SATYN2
+T. aestivum SATYN3
+T. dicoccon1
+T. dicoccon2
+T. dicoccon3
+T. dicoccon4
+T. elongatus
+T. monococcum
+T. timonovum
+T. timopheevii
+Tetragonium expansa
+Thalassiosira hyalina
+Thalassiosira oceania (CS-427)
+Thalassiosira weissflogii (CCMP 1336)
+Thermococcus kodakaraensis
+Thiobacillus denitrificans IA
+Thiobacillus denitrificans II
+Trifolium repens (native ecotype)
+Triticale (Cando)
+Triticale (Rotego)
+Triticale (Talentro)
+Triticum aestivum cv. Alexandria
+Triticum aestivum cv. Saratovskaya 29
+Urtica atrovirens ssp. bianorii
+Z. japonica
+Zea mays cv. Carella
