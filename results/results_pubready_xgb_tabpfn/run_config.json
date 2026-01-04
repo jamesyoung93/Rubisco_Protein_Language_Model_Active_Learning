@@ -1,0 +1,22 @@
+{
+  "mode": "run",
+  "emb_npy": "esm2_t33_650m_full.npy",
+  "labels_csv": "rubisco_datasets_merged.csv",
+  "out_dir": "results_pubready_xgb_tabpfn_v1",
+  "in_runs": "",
+  "datasets": "BOTH",
+  "dms_targets": "dms_enrichment_mean,dms_KmCO2_logfit,dms_VmaxRatio_logfit",
+  "pca_dims": "64,128",
+  "split_seeds": "0,1,2",
+  "model_seeds": "0,1,2,3,4",
+  "tabpfn_caps": "0,5000",
+  "tabpfn_device": "cuda",
+  "tabpfn_ignore_limits": true,
+  "xgb_max_depth": 6,
+  "xgb_reg_lambda": 10.0,
+  "xgb_num_round": 8000,
+  "xgb_early_stop": 200,
+  "xgb_val_frac": 0.1,
+  "xgb_nthread": 16,
+  "hoff_add_nmut_features": true
+}

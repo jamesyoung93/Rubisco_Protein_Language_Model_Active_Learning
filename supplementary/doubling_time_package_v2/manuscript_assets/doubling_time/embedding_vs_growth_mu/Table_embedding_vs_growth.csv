@@ -1,0 +1,13 @@
+strain,doubling_time_min_h,doubling_time_max_h,mu_per_h,data_type,reference,y_true,y_pred_loocv
+Cyanothece sp. ATCC 51142,16.0,20.0,0.0433216987849965,approx/range,"Alagesan et al., 2013",0.0433216987849965,0.06541507691144943
+Nostoc Punctiforme ATCC 29133,16.0,20.0,0.0433216987849965,approx/range,"Meeks et al., 2001",0.0433216987849965,0.05219805985689163
+Nostoc sp. ATCC 29413,14.0,16.0,0.0495105128971389,approx/range,"Mannan & Pakrasi, 1993",0.0495105128971389,0.04919593036174774
+Nostoc sp. PCC 7120,24.0,,0.028881132523331,approx/range,"Ehira et al., 2011",0.028881132523331,0.059524305164813995
+Synechococcus elongatus PCC 11801,2.3,2.3,0.3013683393738893,condition-specific,"Jaiswal et al., 2018 (mBio) (doubling time under ambient CO2)",0.3013683393738893,0.1463586688041687
+Synechococcus elongatus PCC 6301,5.4,5.4,0.1283605889925824,condition-specific,"Yu et al., 2015 (Sci Rep) Table 1",0.1283605889925824,0.18502557277679443
+Synechococcus elongatus PCC 7942,4.9,4.9,0.1414586082775398,condition-specific,"Yu et al., 2015 (Sci Rep) Table 1",0.1414586082775398,0.18128418922424316
+Synechococcus elongatus PCC 7942,4.9,4.9,0.1414586082775398,condition-specific,"Yu et al., 2015 (Sci Rep) Table 1",0.1414586082775398,0.18128418922424316
+Synechococcus sp. PCC 7002,3.5,3.5,0.1980420515885557,approx/range,"Xu et al., 2011",0.1980420515885557,0.19410112500190735
+Synechococcus sp. PCC 7002,3.5,3.5,0.1980420515885557,approx/range,"Xu et al., 2011",0.1980420515885557,0.19410112500190735
+Synechocystis sp. PCC 6803,6.0,12.0,0.1155245300933242,approx/range,"Heidorn et al., 2011",0.1155245300933242,0.1368696391582489
+Synechocystis sp. PCC 6803,6.0,12.0,0.1155245300933242,approx/range,"Heidorn et al., 2011",0.1155245300933242,0.1368696391582489

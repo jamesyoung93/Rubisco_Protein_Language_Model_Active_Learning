@@ -1,0 +1,20 @@
+# Minimal Python dependencies for running the main benchmark scripts.
+#
+# Notes:
+# - TabPFN is optional if you only run XGBoost baselines, but the main "pubready" script imports it directly.
+# - ESM2 embedding generation additionally requires torch + fair-esm.
+
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+xgboost
+requests
+
+# Tabular foundation model (optional)
+tabpfn
+
+# Protein language model embeddings (optional)
+torch
+fair-esm

@@ -1,0 +1,46 @@
+{
+  "dataset": "BOTH",
+  "strategies": [
+    "random",
+    "greedy",
+    "uncertainty",
+    "ucb",
+    "thompson"
+  ],
+  "simcfg": {
+    "init_n": 200,
+    "batch_size": 48,
+    "max_rounds": 25,
+    "ensemble_size": 5,
+    "n_reps": 20,
+    "beta": 1.0,
+    "top_fracs": [
+      0.01,
+      0.05
+    ],
+    "novelty_cutoff_frac": 0.2,
+    "novelty_patience": 3,
+    "novelty_min_rounds": 5,
+    "dms_pos_coverage_stop": 0.95
+  },
+  "xgb": {
+    "pca_dim_dms": 128,
+    "pca_dim_hoff": 64,
+    "max_depth": 6,
+    "reg_lambda": 10.0,
+    "num_boost_round": 2500,
+    "early_stopping": 100,
+    "nthread": 16
+  },
+  "hoff": {
+    "feature_mode": "mean",
+    "objective": "hoff_delta_O2_minus_N2",
+    "constraint": "hoff_fitness_N2",
+    "constraint_mode": "hard",
+    "constraint_lambda": 5.0,
+    "n2_margin": 0.1
+  },
+  "dms": {
+    "target": "dms_enrichment_mean"
+  }
+}

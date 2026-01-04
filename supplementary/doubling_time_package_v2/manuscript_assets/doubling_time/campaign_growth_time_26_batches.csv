@@ -1,0 +1,15 @@
+strain,doubling_time_min_h,doubling_time_max_h,data_type,campaign_growth_time_days_min,campaign_growth_time_days_max
+UTEX2973,1.9,1.9,condition-specific,20.583333333333332,20.583333333333332
+PCC11801,2.3,2.3,condition-specific,24.916666666666668,24.916666666666668
+Synechococcus sp.  PCC 7002,3.5,3.5,approx/range,37.916666666666664,37.916666666666664
+PCC7002,4.1,4.1,condition-specific,44.416666666666664,44.416666666666664
+PCC7942,4.9,4.9,condition-specific,53.083333333333336,53.083333333333336
+PCC6301,5.4,5.4,condition-specific,58.5,58.5
+Synechocystis sp.  PCC 6803,6.0,12.0,approx/range,65.0,130.0
+PCC6803,6.6,6.6,condition-specific,71.5,71.5
+Synechococcus elongatus PCC 7942,12.0,24.0,approx/range,130.0,260.0
+Anabaena ATCC 29413,14.0,16.0,approx/range,151.66666666666666,173.33333333333334
+Nostoc Punctiforme ATCC 29133,16.0,20.0,approx/range,173.33333333333334,216.66666666666666
+Cyanothece sp.  ATCC 51142,16.0,20.0,approx/range,173.33333333333334,216.66666666666666
+Leptolyngbya sp.  Strain BL0902,20.0,20.0,approx/range,216.66666666666666,216.66666666666666
+Anabaena sp. PCC 7120,24.0,,approx/range,260.0,

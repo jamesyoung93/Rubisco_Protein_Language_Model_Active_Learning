@@ -1,0 +1,41 @@
+strain,condition_idx,temp_C,co2,light_umol_photons_m2_s,doubling_time_h,doubling_time_sd_h,qualifier,source
+UTEX2973,1,41,3%,500,2.1,0.2,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,2,41,3%,100,5.0,0.4,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,3,38,3%,200,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,4,38,3%,300,4.2,0.3,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,5,38,3%,500,2.3,0.1,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,6,38,3%,100,6.3,1.7,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,7,30,Air (0.04%),500,5.4,0.9,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+UTEX2973,8,30,3%,300,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,1,41,3%,500,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,2,41,3%,100,6.1,0.3,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,3,38,3%,200,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,4,38,3%,300,4.9,0.7,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,5,38,3%,500,8.5,0.3,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,6,38,3%,100,8.7,0.7,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,7,30,Air (0.04%),500,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7942,8,30,3%,300,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,1,41,3%,500,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,2,41,3%,100,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,3,38,3%,200,9.3,0.3,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,4,38,3%,300,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,5,38,3%,500,4.1,0.4,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,6,38,3%,100,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,7,30,Air (0.04%),500,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC7002,8,30,3%,300,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,1,41,3%,500,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,2,41,3%,100,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,3,38,3%,200,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,4,38,3%,300,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,5,38,3%,500,5.4,0.3,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,6,38,3%,100,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,7,30,Air (0.04%),500,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6301,8,30,3%,300,,,ND,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,1,41,3%,500,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,2,41,3%,100,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,3,38,3%,200,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,4,38,3%,300,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,5,38,3%,500,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,6,38,3%,100,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,7,30,Air (0.04%),500,,,NG,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1
+PCC6803,8,30,3%,300,6.6,,,Yu et al. 2015 Sci Rep 5:8132 (srep08132) Table 1

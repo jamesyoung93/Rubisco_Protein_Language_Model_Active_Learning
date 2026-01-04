@@ -1,0 +1,315 @@
+Acidithiobacillus ferrooxidans
+Aegilops biuncialis
+Aegilops comosa
+Aegilops cylindrica
+Aegilops juvenalis
+Aegilops speltoides
+Aegilops tauschii
+Aegilops triuncialis
+Aegilops uniaristata
+Aegilops vavilovii
+Agave victoriae−reginae
+Agriophyllum squarrosum
+Agrostis scabra
+Agrostis stolonifera
+Allochromatium vinosum
+Amaranthus edulis
+Amaranthus hybridus
+Amphicarpaea bracteata
+Anabena variabilis
+Anacystis nidulans
+Aphanizomenon flos aquae
+Aphanocapsa alpicola
+Arabidopsis thaliana
+Arabidopsis thaliana cv. Columbia
+Archaeoglobus fulgidus
+Arctagrostis latifolia
+Artemisia myriantha
+Artemisia vulgaris L.
+Atrichum undulatum
+Atriplex glabriuscula
+Avena sativa
+B. distachyon
+Bellerochea cf. horologicalis (CS-874/01)
+Beta maritima ssp. marcosii
+Beta maritima ssp. maritima
+Beta vulgaris
+Beta vulgarisssp.vulgaris
+Brassica oleracea
+Bromus anomalus
+C. dactylon
+C. fusiformis
+Calamagrostis arundinacea
+Calamagrostis canescens
+Calamagrostis foliosa
+Calamagrostis inexpansa
+Calamagrostis nutkaensis
+Capsicum annuum
+Carpobrotus edulis
+Cenchrus ciliaris
+Ceratophyllum demersum
+Chaetoceros calcitrans (CCMP 1315)
+Chaetoceros calcitrans (CS-178)
+Chaetoceros muelleri (CCMP 1316)
+Chaetoceros socialis
+Chenopodium alba
+Chenopodium murale
+Chenopodium petiolare
+Chenopodium rubrum
+Chlamydomonas reinhardtii
+Chromatium vinosum
+Chrysanthellum indicum var. afroamericanum
+Citrullus ecirrhosus
+Citrullus lanatus var. lanatus
+Coccochloris peniocystis
+Coffee arabica
+Crithmum maritimum
+Cucurbita maxima
+Cyanidium caldarium
+Cyanobium PCC7001
+Cyanobium PCC7001 broken carboxysomes
+Cyanobium PCC7001 whole carboxysomes
+Cycas panzhihuaensis
+Cylindrotheca N1
+Cylindrotheca fusiformis (CS-13)
+Dactylis glomerata cv. Porto
+Deschampsia danthonioides
+Desmodium cinereum
+Desmodium intortum
+Desmodium psilocarpum
+Diplotaxis ibicensis
+Drosera capensis
+Drosera venusta
+Echeveria elegans
+Echinochloa crus-galli
+Elymus farctus
+Eragrostis tef
+Erythrina flabelliformis
+Espeletia schultzii
+Eucalyptus moorei
+Eucalyptus neglecta
+Euglena gracilis
+Euphorbia helioscopia
+Euphorbia microsphaera
+Festuca gigantea
+Festuca pratensis
+Flaveria angustifolia
+Flaveria angustifolia 
+Flaveria anomala 
+Flaveria australasica
+Flaveria bidentis
+Flaveria bidentis 
+Flaveria brownii 
+Flaveria chloraefolia 
+Flaveria cronquistii
+Flaveria cronquistii 
+Flaveria floridana
+Flaveria floridana 
+Flaveria kochiana
+Flaveria linearis 
+Flaveria palmeri 
+Flaveria pringlei
+Flaveria ramosissima 
+Flaveria sonorensis 
+Flaveria trinervia
+Flaveria trinervia 
+Flaveria vaginata 
+Flueggea suffruticosa
+Foeniculum vulgare
+Fragilariopsis cylindrus
+Fragilariopsis cylindrus (CCMP 1102)
+Galdieria partita Tokara
+Galdieria sulfuraria
+Glycine canescens
+Glycine max
+Glycine max cv. Wayne
+Griffithsia monilis
+H. vulgare cv. Lenins
+Halothiobacillus neapolitanus
+Halothiobacillus neapolitanus broken carboxysomes
+Halothiobacillus neapolitanus whole carboxysomes
+Helianthus annuus L.
+Helianthus maximus
+Hordeum brachyantherum
+Hordeum murinum
+Hordeum vulgare L.
+Hordeum vulgare cv. Stirling
+Hordeum vulgare ssp. vulgare cv. Morex
+Hypericum balearicum
+Ipomoea batatas
+Iris douglasiana
+Kundmannia sicula
+Lablab purpureus
+Lactua sativa
+Lepidium campestre
+Limonium antonii‐llorensii
+Limonium artruchium
+Limonium balearicum
+Limonium barceloi
+Limonium biflorum
+Limonium companyonis
+Limonium echioides
+Limonium ejulabilis
+Limonium gibertii
+Limonium grosii
+Limonium gymnesicum
+Limonium latebracteatum
+Limonium leonardi‐llorensii
+Limonium magallufianum
+Limonium retusum
+Limonium stenophyllum
+Limonium virgatum
+Lolium multiflorum
+Lolium perenne
+Lolium rigidum
+Lycopersicon ensculentum
+Lysimachia minoricensis
+Macrotyloma uniflorum
+Manihot esculenta
+Marchantia polymorpha
+Medicago sativa
+Megathyrsus maximus
+Mentha aquatica
+Mercurialis annua
+Metasequoia glyptostroboides
+Methanococcoides burtonii
+Methanococcoides burtonii K332E
+Methanococcoides burtonii L2
+Musa velutina
+Nicotiana glauca Grah.
+Nicotiana tabacum
+Nicotiana tabacum L. cv. W38
+Nicotiana tabacum cv. PH
+Nicotiana tabacum cv. W38
+Nymphaea alba
+Olisthodiscus luteus
+Oryza barthii/glaberrima
+Oryza eichingeri
+Oryza glaberrima (WAB 1939)
+Oryza glumaepatula
+Oryza longistaminata
+Oryza meridionalis
+Oryza nivara
+Oryza punctata
+Oryza punctata Kotschy
+Oryza sativa
+Oryza sativa ssp.Indicacv.Icasulum
+Oryza sativa ssp.Japonicacv.Nipponbare
+P. dilatatum
+Pallenis maritima
+Panicum amarum
+Panicum antidotale
+Panicum bisulcatum
+Panicum coloratum
+Panicum deustum
+Panicum dichotomiflorum
+Panicum miliodes
+Panicum milioides
+Panicum milliaceum
+Panicum monticola
+Panicum phragmitoides
+Panicum virgatum
+Pavlova lutheri
+Petroselinum cripsum
+Phaeodactylum tricornutum
+Phaeodactylum tricornutum (CS-29)
+Phaeodactylum tricornutum (UTEX 642)
+Phaseolus carteri
+Phaseolus coccineus
+Phaseolus lunatus
+Phaseolus vulgaris
+Phaseolus vulgaris 
+Pistacia lentiscus
+Pisum sativum
+Plantago lanceolata L.
+Platycerium superbum
+Plectonema boryanum
+Pleurochrysis carterae
+Poa palustris
+Polypodium aureum
+Porphyra yezoensis
+Porphyridium cruenteum
+Porphyridium purpureum
+Potulaca oleraca
+Prochlorococcus marinus MIT9313
+Pteridium aquilinum
+Puccinellia distans
+Puccinellia lemmonii
+Puccinellia maritima
+Puccinellia nuttalliana
+Pueraria montana
+Rhamnus alaternus
+Rhamnus ludovici-salvatoris
+Rhodobacter sphaeroides I
+Rhodobacter sphaeroides II
+Rhodopseudomonas palustris
+Rhodospirillum rubrum
+Riftia pachyptila endosymbiont
+S. cereale cv. Agronom
+Saccharum officinarum
+Sarracenia flava
+Scenedesmus obliquus
+Setaria italica
+Setaria viridis
+Sideritis cretica subsp. spicata
+Skeletonema costatum
+Skeletonema marinoi (CCMP 1332)
+Solanum lycopersicum
+Solanum tuberosum
+Sorghum bicolor
+Sphenostylis stenocarpa
+Spinacia oleracea
+Spinacia oleracea hybrid 102
+Steinchisma laxa
+Synechococcus 6301
+Synechococcus 6301 F92L
+Synechococcus 6301 G91V
+Synechococcus 6301 I87V
+Synechococcus 6301 R88K
+Synechococcus 7002
+Synechococcus 7515
+Synechococcus elongatus PCC 7942
+T. aestivum (C)
+T. aestivum SATYN1
+T. aestivum SATYN2
+T. aestivum SATYN3
+T. dicoccon1
+T. dicoccon2
+T. dicoccon3
+T. dicoccon4
+T. elongatus
+T. monococcum
+T. timonovum
+T. timopheevii
+Tephrosia candida
+Tephrosia purpurea
+Tephrosia rhodesica
+Tetragonium expansa
+Teucrium heterophyllum
+Thalassiosira antarctica
+Thalassiosira hyalina
+Thalassiosira oceania (CS-427)
+Thalassiosira weissflogii
+Thalassiosira weissflogii (CCMP 1336)
+Thermococcus kodakaraensis
+Thiobacillus denitrificans IA
+Thiobacillus denitrificans II
+Tisochrysis lutea
+Trachycarpus fortunei
+Trifolium repens (native ecotype)
+Triticale (Cando)
+Triticale (Rotego)
+Triticale (Talentro)
+Triticum aestivum
+Triticum aestivum cv. Alexandria
+Triticum aestivum cv. Saratovskaya 29
+Triticum baeoticum
+Ulva pertusa
+Urochloa mosambicensis
+Urochloa panicoides
+Urtica atrovirens ssp. bianorii
+Urtica membranacea
+Z. japonica
+Zea mays
+Zea mays 
+Zea mays cv. Carella
