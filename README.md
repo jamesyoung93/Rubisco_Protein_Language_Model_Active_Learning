@@ -50,7 +50,7 @@ Outputs are written to a new `results_pubready_xgb_tabpfn/` folder in the workin
 
 Notes
 - The full benchmark script imports `tabpfn`. If TabPFN is not installed or is not permitted under your intended use case, reproduce the XGBoost only outputs using the XGBoost only paths in the repository or rely on the precomputed results in `../../results/results_pubready_xgb_tabpfn/`.
-- ESM2 embeddings are provided as `.npy` files for reproducibility. If you prefer to regenerate embeddings, use the embedding utilities in `supplementary/doubling_time_package_v2/`.
+- Small ESM2 embeddings are included for convenience, but the full `esm2_t33_650m_full.npy` cannot be stored on GitHub because it exceeds the 100 MB limit. Recreate it using the embedding steps below.
 
 ### 2. Active learning simulation
 
@@ -91,6 +91,119 @@ python analyze_flamholz_embeddings_vs_kinetics.py \
   --targets vC KC S KO vO KRuBP \
   --k 5 --pca_dim 16 --ridge_alpha 10.0 --log10 --wt_only --aggregate median
 ```
+
+## Reproducing Results From Scratch (Fresh GitHub Clone)
+
+The commands below reproduce the deposited results starting from a clean clone. They cover both generating the missing full ESM2 embedding file (`esm2_t33_650m_full.npy`, ~122 MB) and rerunning the main scripts. The embedding file is required by `eval_full_models.py`, `train_rank_hoffmann_o2_depth_tuned.py`, and `active_learning_sim.py` and should live in the working directory (`code/AI_CHEM_code/`).
+
+### A. HPC / Slurm (recommended for embedding generation)
+
+1. Clone and enter the repo:
+
+   ```bash
+   git clone https://github.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning.git
+   cd Rubisco_Protein_Language_Model_Active_Learning
+   ```
+
+2. Create or update the Conda environment:
+
+   ```bash
+   conda env create -f env/conda_environment_rubisco_embed.yml
+   # if the environment already exists
+   conda env update -f env/conda_environment_rubisco_embed.yml --prune
+   # activate (initialize Conda first if needed)
+   source "$(conda info --base)/etc/profile.d/conda.sh"
+   conda activate rubisco_embed
+   ```
+
+3. Set writable caches (adjust to any scratch path if desired):
+
+   ```bash
+   export PROJ="$(pwd)"
+   export TORCH_HOME="$PROJ/.cache/torch"
+   export HF_HOME="$PROJ/.cache/huggingface"
+   mkdir -p "$TORCH_HOME" "$HF_HOME"
+   ```
+
+4. Generate the full ESM2 embeddings (Slurm batch):
+
+   ```bash
+   cd code/AI_CHEM_code
+   mkdir -p logs
+   sbatch run_embed_full.sbatch
+   ```
+
+   - Edit the `cd` line inside `run_embed_full.sbatch` to point to your cloned `code/AI_CHEM_code/` directory before submission.
+   - The batch script runs:
+     ```bash
+     python embed_esm2.py \
+       --in_csv rubisco_datasets_embed_input.csv \
+       --id_col variant_id \
+       --seq_col aa_sequence \
+       --out_npy esm2_t33_650m_full.npy \
+       --model facebook/esm2_t33_650M_UR50D \
+       --batch_size 16
+     ```
+
+5. Sanity check the embedding file:
+
+   ```bash
+   ls -lh esm2_t33_650m_full.npy
+   python - <<'PY'
+   import numpy as np
+   d = np.load("esm2_t33_650m_full.npy", allow_pickle=True).item()
+   print("keys:", d.keys())
+   print("ids:", len(d["ids"]))
+   print("emb shape:", d["emb"].shape, "dtype:", d["emb"].dtype)
+   PY
+   ```
+
+6. Reproduction commands used for deposition (from `code/AI_CHEM_code` after the embedding exists):
+
+   ```bash
+   python eval_full_models.py
+   python train_rank_hoffmann_o2_depth_tuned.py
+   python active_learning_sim.py \
+     --emb_file esm2_t33_650m_full.npy \
+     --workdir . \
+     --dataset BOTH \
+     --outdir results_active_learning_pubready_xgb \
+     --strategies random,greedy,uncertainty,ucb,thompson \
+     --n_reps 20 \
+     --init_n 200 \
+     --batch_size 48 \
+     --max_rounds 25 \
+     --ensemble_size 5 \
+     --beta 1.0 \
+     --dms_target dms_enrichment_mean \
+     --dms_pca_dim 128 \
+     --hoff_feature_mode mean \
+     --hoff_pca_dim 64
+   ```
+
+   The quick-start entrypoint (`python rubisco_pubready_xgb_tabpfn.py --mode run` then `--mode summarize`) remains valid for the main benchmarks; the commands above are the exact ones used for the deposited evaluation and active learning results.
+
+### B. Local workstation (CPU possible; GPU faster)
+
+Follow the same steps as above for cloning, environment setup, and cache configuration. To generate embeddings without Slurm, run from `code/AI_CHEM_code`:
+
+```bash
+python embed_esm2.py \
+  --in_csv rubisco_datasets_embed_input.csv \
+  --id_col variant_id \
+  --seq_col aa_sequence \
+  --out_npy esm2_t33_650m_full.npy \
+  --model facebook/esm2_t33_650M_UR50D \
+  --batch_size 8
+```
+
+Then perform the sanity check and reproduction commands listed above.
+
+### Common pitfalls / troubleshooting
+
+- If you see “Permission denied” creating `/.cache/...`, your `TORCH_HOME`/`HF_HOME` is wrong—set them to a writable path (e.g., the repo-local `.cache` folder shown above).
+- If you see `FileNotFoundError: esm2_t33_650m_full.npy`, you have not generated the embeddings or are running from the wrong working directory (`code/AI_CHEM_code`).
+- Precomputed outputs are available under `results/` and can be used directly if you wish to skip compute-heavy steps.
 
 ## Reproducibility notes
 
