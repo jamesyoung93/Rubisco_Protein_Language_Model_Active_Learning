@@ -18,3 +18,7 @@ tabpfn
 # Protein language model embeddings (optional)
 torch
 fair-esm
+
+# Additional revision analyses
+transformers
+shap
