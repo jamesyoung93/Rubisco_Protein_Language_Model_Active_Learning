@@ -1,0 +1,25 @@
+target,split,comparison,n_paired,mean_A,mean_B,mean_delta,paired_t_statistic,paired_t_pvalue,cohens_d
+dms_enrichment_mean,within_position,ESM2+XGB vs ESM2+TabPFN,3,0.8371,0.8842,-0.0471,-13.4566,0.005477,-7.7692
+dms_enrichment_mean,within_position,ProtT5+XGB vs ProtT5+TabPFN,3,0.8455,0.8946,-0.049,-31.2635,0.001022,-18.05
+dms_enrichment_mean,within_position,ESM2+XGB vs ProtT5+XGB,3,0.8371,0.8455,-0.0084,-2.5236,0.127645,-1.457
+dms_enrichment_mean,within_position,ESM2+TabPFN vs ProtT5+TabPFN,3,0.8842,0.8946,-0.0104,-11.3665,0.007651,-6.5624
+dms_enrichment_mean,pos_holdout,ESM2+XGB vs ESM2+TabPFN,5,0.6481,0.6794,-0.0312,-12.9359,0.000206,-5.7851
+dms_enrichment_mean,pos_holdout,ProtT5+XGB vs ProtT5+TabPFN,5,0.701,0.7191,-0.018,-2.3209,0.081053,-1.038
+dms_enrichment_mean,pos_holdout,ESM2+XGB vs ProtT5+XGB,5,0.6481,0.701,-0.0529,-5.6076,0.004968,-2.5078
+dms_enrichment_mean,pos_holdout,ESM2+TabPFN vs ProtT5+TabPFN,5,0.6794,0.7191,-0.0397,-4.1339,0.014448,-1.8488
+dms_KmCO2_logfit,within_position,ESM2+XGB vs ESM2+TabPFN,3,0.4725,0.5531,-0.0807,-8.741,0.012837,-5.0466
+dms_KmCO2_logfit,within_position,ProtT5+XGB vs ProtT5+TabPFN,3,0.4668,0.5849,-0.1181,-10.1392,0.009588,-5.8539
+dms_KmCO2_logfit,within_position,ESM2+XGB vs ProtT5+XGB,3,0.4725,0.4668,0.0057,1.0135,0.417477,0.5852
+dms_KmCO2_logfit,within_position,ESM2+TabPFN vs ProtT5+TabPFN,3,0.5531,0.5849,-0.0317,-14.7769,0.004548,-8.5314
+dms_KmCO2_logfit,pos_holdout,ESM2+XGB vs ESM2+TabPFN,5,0.1895,0.2573,-0.0678,-5.6119,0.004954,-2.5097
+dms_KmCO2_logfit,pos_holdout,ProtT5+XGB vs ProtT5+TabPFN,5,0.2517,0.33,-0.0783,-5.9321,0.004048,-2.6529
+dms_KmCO2_logfit,pos_holdout,ESM2+XGB vs ProtT5+XGB,5,0.1895,0.2517,-0.0622,-3.6116,0.022524,-1.6152
+dms_KmCO2_logfit,pos_holdout,ESM2+TabPFN vs ProtT5+TabPFN,5,0.2573,0.33,-0.0727,-5.7266,0.004603,-2.561
+dms_VmaxRatio_logfit,within_position,ESM2+XGB vs ESM2+TabPFN,3,0.8255,0.8662,-0.0407,-11.226,0.007842,-6.4813
+dms_VmaxRatio_logfit,within_position,ProtT5+XGB vs ProtT5+TabPFN,3,0.8335,0.8773,-0.0438,-19.8376,0.002531,-11.4532
+dms_VmaxRatio_logfit,within_position,ESM2+XGB vs ProtT5+XGB,3,0.8255,0.8335,-0.0081,-2.84,0.104842,-1.6397
+dms_VmaxRatio_logfit,within_position,ESM2+TabPFN vs ProtT5+TabPFN,3,0.8662,0.8773,-0.0111,-6.3173,0.024154,-3.6473
+dms_VmaxRatio_logfit,pos_holdout,ESM2+XGB vs ESM2+TabPFN,5,0.6275,0.6508,-0.0233,-9.8289,0.000601,-4.3956
+dms_VmaxRatio_logfit,pos_holdout,ProtT5+XGB vs ProtT5+TabPFN,5,0.6859,0.6998,-0.014,-2.4065,0.073831,-1.0762
+dms_VmaxRatio_logfit,pos_holdout,ESM2+XGB vs ProtT5+XGB,5,0.6275,0.6859,-0.0584,-6.5406,0.002824,-2.925
+dms_VmaxRatio_logfit,pos_holdout,ESM2+TabPFN vs ProtT5+TabPFN,5,0.6508,0.6998,-0.049,-7.4717,0.001715,-3.3414

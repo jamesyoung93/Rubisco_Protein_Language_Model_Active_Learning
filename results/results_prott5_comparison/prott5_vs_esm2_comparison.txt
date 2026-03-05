@@ -1,0 +1,25 @@
+Task B: ProtT5 vs ESM2 Embedding Comparison
+========================================================================
+ProtT5 dim: 1024, ESM2 dim: 1280, PCA: 128
+Model seeds: [0, 1, 2, 3, 4]
+
+Target                       Split              Model        ESM2 ρ   ProtT5 ρ    Δ (P-E)
+------------------------------------------------------------------------------------------
+dms_KmCO2_logfit             pos_holdout        xgb          0.1895     0.2517    +0.0622
+dms_KmCO2_logfit             within_position    xgb          0.4725     0.4668    -0.0057
+dms_VmaxRatio_logfit         pos_holdout        xgb          0.6275     0.6859    +0.0584
+dms_VmaxRatio_logfit         within_position    xgb          0.8255     0.8335    +0.0081
+dms_enrichment_mean          pos_holdout        tabpfn       0.6794     0.7191    +0.0397
+dms_enrichment_mean          pos_holdout        xgb          0.6481     0.7010    +0.0529
+dms_enrichment_mean          within_position    tabpfn       0.8842     0.8946    +0.0104
+dms_enrichment_mean          within_position    xgb          0.8371     0.8455    +0.0084
+hoff_delta_O2_minus_N2       depth_holdout      tabpfn       0.5166     0.5377    +0.0212
+hoff_delta_O2_minus_N2       depth_holdout      xgb          0.3953     0.3920    -0.0033
+
+Summary:
+------------------------------------------------------------------------
+  XGB mean Δ(ProtT5 - ESM2) across all tasks: +0.0259
+  TabPFN mean Δ(ProtT5 - ESM2) across tasks:  +0.0237
+  Overall direction: ProtT5 > ESM2 (mean Δ = +0.0252)
+
+Total runtime: 95.2 min

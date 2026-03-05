@@ -1,0 +1,26 @@
+Balance Experiment Summary (Task A)
+============================================================
+Target: dms_enrichment_mean
+Split: within-position (stratified 80/20)
+Seeds: [0, 1, 2]
+PCA: 128
+Quantile bins: 4
+
+Condition              Model              Spearman         Top5% Prec       Top5% Enrich
+----------------------------------------------------------------------------------------
+original               tabpfn   0.8838 ± 0.0039  0.4100 ± 0.0066  0.4392 ± 0.0107
+original               xgb      0.8383 ± 0.0055  0.2529 ± 0.0597  0.4187 ± 0.0105
+quantile_balanced      tabpfn   0.8834 ± 0.0043  0.4176 ± 0.0133  0.4391 ± 0.0108
+quantile_balanced      xgb      0.8377 ± 0.0069  0.2414 ± 0.0501  0.4219 ± 0.0116
+
+Gap Analysis: TabPFN - XGBoost Spearman
+------------------------------------------------------------
+  original: gap = 0.0455 ± 0.0049
+  quantile_balanced: gap = 0.0457 ± 0.0044
+
+  Original gap (TabPFN - XGB):  0.0455
+  Balanced gap (TabPFN - XGB):  0.0457
+  Delta: +0.0002 (WIDENED)
+
+Does the Spearman gap narrow under quantile_balanced? WIDENED
+By how much? 0.0002

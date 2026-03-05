@@ -77,28 +77,43 @@ def quantile_balance_indices(y: np.ndarray, n_bins: int = 5, seed: int = 42) -> 
 
 def transform(X, tr, te, pca_dim):
     scaler = StandardScaler()
-    pca = PCA(n_components=pca_dim, random_state=42)
+    pca = PCA(n_components=int(pca_dim), random_state=0, svd_solver="randomized")
     Xtr = pca.fit_transform(scaler.fit_transform(X[tr]))
     Xte = pca.transform(scaler.transform(X[te]))
     return Xtr.astype(np.float32), Xte.astype(np.float32)
 
 
-def fit_predict_xgb(Xtr, ytr, Xte, seed=42):
-    dtr = xgb.DMatrix(Xtr, label=ytr)
+def fit_predict_xgb(Xtr, ytr, Xte, seed=0):
+    rng = np.random.default_rng(seed)
+    idx = np.arange(len(ytr))
+    tr_idx, va_idx = train_test_split(idx, test_size=0.10, random_state=int(rng.integers(1e9)))
+
+    dtr = xgb.DMatrix(Xtr[tr_idx], label=ytr[tr_idx])
+    dva = xgb.DMatrix(Xtr[va_idx], label=ytr[va_idx])
     dte = xgb.DMatrix(Xte)
     params = {
         "objective": "reg:squarederror",
         "eval_metric": "rmse",
         "eta": 0.03,
         "max_depth": 6,
+        "min_child_weight": 1.0,
         "subsample": 0.85,
         "colsample_bytree": 0.85,
         "lambda": 10.0,
         "tree_method": "hist",
         "seed": seed,
+        "nthread": 16,
     }
-    bst = xgb.train(params, dtr, num_boost_round=1200, verbose_eval=False)
-    return bst.predict(dte)
+    bst = xgb.train(
+        params, dtr,
+        num_boost_round=8000,
+        evals=[(dva, "val")],
+        early_stopping_rounds=200,
+        verbose_eval=False,
+    )
+    bi = bst.best_iteration
+    pred = bst.predict(dte) if bi is None else bst.predict(dte, iteration_range=(0, bi + 1))
+    return pred.astype(np.float32)
 
 
 def fit_predict_tabpfn(Xtr, ytr, Xte, device="cpu"):
