@@ -1,11 +1,8 @@
 {
-  "n": 12,
-  "target": "doubling_time_min_h",
-  "log_target": true,
-  "pca_dim": 5,
-  "ridge_alpha": 10.0,
-  "spearman": 0.8283198814637485,
-  "pearson": 0.8856869244548784,
-  "r2": 0.7790567647341966,
-  "mse": 0.10920145780533967
+  "n_unique_strains": 9,
+  "pca_dim": 6,
+  "ridge_alpha": 0.1,
+  "spearman": 0.8368,
+  "r2": 0.6334,
+  "embedding": "ESM-2 (esm2_t33_650M_UR50D) mean-pooled"
 }
