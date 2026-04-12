@@ -1,10 +1,10 @@
 strain,doubling_time_h,log_doubling_time,loocv_predicted_log,loocv_predicted_h,reference,selection_note
-Synechococcus elongatus PCC 11801,4.0,1.3862943611198906,1.6117714643478394,5.011681383825606,"Jaiswal et al., 2018 [S44]",Reported doubling time under moderate light; 2.3 h achieved only at 1000 umol m-2 s-1
+Synechococcus elongatus PCC 11801,4.0,1.3862943611198906,1.6117714643478394,5.011681383825606,"Jaiswal et al., 2018 [21]",Reported doubling time under moderate light; 2.3 h achieved only at 1000 umol m-2 s-1
 Synechococcus sp. PCC 7002,4.1,1.410986973710262,1.971575379371643,7.181981927006334,"Yu et al., 2015 [22] Table 1","Direct measurement at 38C, 3% CO2, 500 umol m-2 s-1"
 Synechococcus elongatus PCC 7942,4.9,1.589235205116581,1.6808562278747559,5.370152077084239,"Yu et al., 2015 [22] Table 1","Direct measurement at 38C, 3% CO2, 300 umol m-2 s-1"
 Synechococcus elongatus PCC 6301,5.4,1.6863989535702288,1.6122965812683105,5.014313793621236,"Yu et al., 2015 [22] Table 1","Direct measurement at 38C, 3% CO2, 500 umol m-2 s-1"
-Synechocystis sp. PCC 6803,9.0,2.1972245773362196,2.7491369247436523,15.629136940078645,"Heidorn et al., 2011 [S45]; Yu et al., 2015 [22]","Representative midpoint of 6-12 h literature range (Berla et al., 2013 [S46])"
-Nostoc sp. ATCC 29413,14.0,2.6390573296152584,2.8303275108337402,16.951011555456414,"Mannan & Pakrasi, 1993 [S47]",Direct measurement under photoautotrophic conditions
-Cyanothece sp. ATCC 51142,18.0,2.8903717578961645,2.0328621864318848,7.635910510944559,"Feng et al., 2014 [S48]; Sinetova et al., 2012 [S49]","Representative value at 32-35C, moderate light, continuous illumination"
-Nostoc sp. PCC 7120,24.0,3.1780538303479458,2.7545182704925537,15.713469437358528,"Berla et al., 2013 [S46] Table 1; Zhang et al., 2007 [S50]",Literature-compiled value under standard BG-11 conditions
-Nostoc punctiforme ATCC 29133,24.0,3.1780538303479458,3.2826077938079834,26.645167279413485,"Soule et al., 2007 [S51]",0.994 doublings per day under white light
+Synechocystis sp. PCC 6803,9.0,2.1972245773362196,2.7491369247436523,15.629136940078645,"Heidorn et al., 2011 [44]; Yu et al., 2015 [22]","Representative midpoint of 6-12 h literature range (Berla et al., 2013 [45])"
+Nostoc sp. ATCC 29413,14.0,2.6390573296152584,2.8303275108337402,16.951011555456414,"Mannan & Pakrasi, 1993 [47]",Direct measurement under photoautotrophic conditions
+Cyanothece sp. ATCC 51142,18.0,2.8903717578961645,2.0328621864318848,7.635910510944559,"Dechatiwongse et al., 2014 [49]; Sinetova et al., 2012 [50]","Representative value at 32-35C, moderate light, continuous illumination"
+Nostoc sp. PCC 7120,24.0,3.1780538303479458,2.7545182704925537,15.713469437358528,"Berla et al., 2013 [45] Table 1",Literature-compiled value under standard BG-11 conditions
+Nostoc punctiforme ATCC 29133,24.0,3.1780538303479458,3.2826077938079834,26.645167279413485,"Soule et al., 2007 [51]",0.994 doublings per day under white light
