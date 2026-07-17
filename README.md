@@ -1,14 +1,32 @@
-# Rubisco AI Chemistry public deposition package
+# Active learning on protein language model embeddings for Rubisco
 
-This folder consolidates code, processed data, and precomputed outputs that support the
-MDPI AI Chemistry manuscript on protein language model embeddings for Rubisco variant
-prediction and active learning.
+This repository contains the code, processed data, and precomputed outputs for a published workflow that uses protein language model embeddings to prioritize Rubisco variants for experimental follow-up. It treats protein engineering as a supervised ranking and sequential decision problem across deep mutational scanning, cyanobacterial fitness, and cross-species datasets.
+
+**Paper:** [Active Learning on Protein Language Model Embeddings Accelerates Rubisco Variant Discovery for Desired Traits](https://doi.org/10.3390/aichem1020007), *AI Chemistry* 1(2), 7 (2026)
+
+**Archived release:** [Zenodo 10.5281/zenodo.19546367](https://doi.org/10.5281/zenodo.19546367)
+
+## Key result
+
+The paper reports that TabPFN-2.5 outperformed XGBoost on rank-based criteria across the evaluated prediction tasks, including Spearman correlation and top-5% hit recovery. In retrospective campaigns initialized with 200 measured variants and batches of 48, model-guided acquisition recovered more top-performing variants than random sampling at fixed experimental budgets.
+
+## Methods and stack
+
+- ESM-2 and ProtT5 protein language model embeddings
+- PCA-reduced representations with leakage-aware split handling
+- XGBoost and TabPFN-2.5 regression and ranking
+- Random, greedy, uncertainty, upper-confidence-bound, and Thompson acquisition strategies
+- Python, PyTorch, fair-esm, scikit-learn, XGBoost, and TabPFN
 
 ## Licensing
 
 - Code: MIT License. See `LICENSE`.
 - Original, code generated figures and tables: CC BY 4.0. See `LICENSE_DATA`.
 - Third party resources: see `THIRD_PARTY_NOTICES.md`.
+
+## Data availability
+
+Processed input tables, smaller embeddings, and precomputed manuscript outputs are included. The full `esm2_t33_650m_full.npy` embedding is not stored on GitHub because it exceeds the 100 MB file limit; the commands below regenerate it from the released sequence table. Source datasets and third-party resources are documented in `THIRD_PARTY_NOTICES.md` and retain their original terms.
 
 ## Folder map
 
@@ -201,7 +219,7 @@ Then perform the sanity check and reproduction commands listed above.
 
 ### Common pitfalls / troubleshooting
 
-- If you see “Permission denied” creating `/.cache/...`, your `TORCH_HOME`/`HF_HOME` is wrong—set them to a writable path (e.g., the repo-local `.cache` folder shown above).
+- If you see “Permission denied” creating `/.cache/...`, your `TORCH_HOME`/`HF_HOME` is wrong. Set them to a writable path, such as the repo-local `.cache` folder shown above.
 - If you see `FileNotFoundError: esm2_t33_650m_full.npy`, you have not generated the embeddings or are running from the wrong working directory (`code/AI_CHEM_code`).
 - Precomputed outputs are available under `results/` and can be used directly if you wish to skip compute-heavy steps.
 
@@ -211,7 +229,22 @@ Then perform the sanity check and reproduction commands listed above.
 - ESM2 models download weights on first use. Ensure you have network access or pre stage weights into your Torch cache.
 - Some scripts depend on `torch` and `fair-esm`.
 
-## Suggested citation
+## Citation
 
-Please use `CITATION.cff` and the manuscript DOI when available.
+```bibtex
+@article{Young2026RubiscoActiveLearning,
+  author  = {Young, James and Nelson, Dillon and Gu, Liping and Zhou, Ruanbao},
+  title   = {Active Learning on Protein Language Model Embeddings Accelerates Rubisco Variant Discovery for Desired Traits},
+  journal = {AI Chemistry},
+  year    = {2026},
+  volume  = {1},
+  number  = {2},
+  pages   = {7},
+  doi     = {10.3390/aichem1020007}
+}
+```
+
+## License
+
+Code is available under the [MIT License](LICENSE). Original generated figures and tables are available under CC BY 4.0 as described in [LICENSE_DATA](LICENSE_DATA). Third-party materials retain their original terms.
 
